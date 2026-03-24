@@ -47,8 +47,8 @@ export const siteConfig = {
 
   // ── Boatwork integration ──────────────────────────────────
   boatwork: {
-    profileSlug: 'template',
-    profileId: '', // UUID — set during provisioning, permanent link to profile
+    profileSlug: 'c-f-marine-miami',
+    profileId: '53513a9c-748a-411b-ad1f-205e492784fe', // UUID — set during provisioning, permanent link to profile
     profileUrl: 'https://boatwork.co/pro/template/',
     logoUrl: '/boatwork-logo.svg',
     useLiveReviews: false,
