@@ -1,0 +1,43 @@
+{
+  "updatedAt": "2026-03-24T01:11:08.372Z",
+  "specialtiesKey": "Boat Mechanics & Engine Repair",
+  "servicesKey": "",
+  "contentVersion": "6",
+  "content": {
+    "tagline": "Honest Marine Service on the Miami River",
+    "about": "Welcome to C & F Marine, your trusted partner for professional boat repair and marine engine services in Miami, Florida. We're located at 2151 NW 12th St in the heart of Miami's historic boatyard district along the Miami River — a neighborhood that's been the backbone of South Florida's marine industry for generations. With a strong 4.5-star Google rating backed by nearly 100 customer reviews, we've built a reputation as one of Miami-Dade County's most reliable marine service facilities.\n\nAt C & F Marine, we specialize in boat mechanics and marine engine repair for a wide range of vessels. Whether your inboard or outboard engine is running rough, overheating, losing power, or just won't start, our experienced marine technicians dig into the problem and give you a straight answer. We handle diagnostics, engine rebuilds, fuel system repairs, cooling system service, electrical troubleshooting, and routine maintenance — the kind of thorough, hands-on work that keeps your boat running the way it should on Biscayne Bay and beyond.\n\nWe serve boat owners throughout Miami-Dade County and across South Florida, including communities along the coast, the Keys corridor, and everywhere in between. What keeps our customers coming back isn't just the technical skill — it's the honest communication. We tell you what's wrong, what it'll cost, and what it'll take to fix it right. If you're looking for a marine mechanic in Miami you can actually trust, C & F Marine is where boat owners in South Florida have been bringing their vessels for years.",
+    "seoTitle": "C & F Marine | Boat Mechanics & Engine Repair Miami, FL",
+    "seoDescription": "C & F Marine offers expert boat mechanics & engine repair in Miami, FL. Serving Miami-Dade & South Florida. Call us today!",
+    "seoKeywords": [
+      "boat mechanics Miami FL",
+      "marine engine repair Miami",
+      "boat repair Miami-Dade County",
+      "outboard engine repair South Florida",
+      "inboard engine service Miami",
+      "marine mechanic Miami River",
+      "boat engine diagnostics Miami FL",
+      "marine engine overhaul South Florida"
+    ],
+    "serviceDescriptions": {
+      "Boat Mechanics & Engine Repair": "C & F Marine provides hands-on diagnostics and repair for inboard and outboard marine engines, covering everything from fuel system issues and overheating to electrical faults and full engine rebuilds. Our technicians work on a wide range of vessel types and engine brands, identifying the root cause of the problem rather than just addressing symptoms. Whether it's routine mechanical maintenance or a complex engine overhaul, we focus on getting your boat running reliably and keeping it that way."
+    },
+    "serviceAreaDescription": "C & F Marine is based in Miami, FL and provides marine repair services throughout South Florida within a 30-mile radius.",
+    "commonProjects": [
+      "Outboard engine diagnosis and repair after loss of power",
+      "Inboard engine overhaul and full mechanical rebuild",
+      "Marine fuel system cleaning, repair, and replacement",
+      "Cooling system inspection and water pump replacement",
+      "Boat electrical system troubleshooting and repair",
+      "Routine engine tune-up and preventive maintenance service",
+      "Engine starting failure diagnosis and ignition system repair"
+    ],
+    "serviceAreaLocalities": [
+      "Miami, FL",
+      "Miami Beach, FL",
+      "Fort Lauderdale, FL",
+      "Aventura, FL",
+      "Hallandale Beach, FL"
+    ],
+    "serviceAreaTitle": "Our Service Area"
+  }
+}
