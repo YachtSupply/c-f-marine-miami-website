@@ -38,6 +38,26 @@
       "Aventura, FL",
       "Hallandale Beach, FL"
     ],
-    "serviceAreaTitle": "Our Service Area"
-  }
+    "serviceAreaTitle": "Our Service Area",
+    "reviewSynopsis": {
+      "aggregateRating": 4.5,
+      "totalReviewCount": 97,
+      "boatworkReviewCount": 0,
+      "googleReviewCount": 97,
+      "summary": "Our customers consistently give us high marks, reflected in our 4.5 out of 5 star rating across 97 Google reviews. We take pride in delivering reliable marine services that keep our clients coming back and recommending us to fellow boaters. The feedback we receive tells us that our team's expertise, professionalism, and commitment to quality workmanship make a real difference for those who trust us with their vessels.",
+      "keywords": [
+        "marine services",
+        "boat repair",
+        "professional service",
+        "reliable workmanship",
+        "knowledgeable staff",
+        "customer satisfaction",
+        "trusted marine experts"
+      ],
+      "sources": [
+        "google"
+      ]
+    }
+  },
+  "synopsisUpdatedAt": "2026-04-08T13:19:41.425Z"
 }
